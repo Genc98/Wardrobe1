@@ -18,7 +18,7 @@ public class Wardrobe
       }
       else
       {
-         Console.WriteLine("The door is closed!");
+         Console.WriteLine("The door isxxxgi closed!");
       }
    }
 

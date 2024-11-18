@@ -1,0 +1,14 @@
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\bin\Debug\net8.0\Wardrobe1.exe
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\bin\Debug\net8.0\Wardrobe1.deps.json
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\bin\Debug\net8.0\Wardrobe1.runtimeconfig.json
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\bin\Debug\net8.0\Wardrobe1.dll
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\bin\Debug\net8.0\Wardrobe1.pdb
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.AssemblyInfoInputs.cache
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.AssemblyInfo.cs
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.csproj.CoreCompileInputs.cache
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.dll
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\refint\Wardrobe1.dll
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.pdb
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\Wardrobe1.genruntimeconfig.cache
+C:\Users\genc-\Desktop\Skola\3. Objektorienterad programmering\C#\Wardrobe1\obj\Debug\net8.0\ref\Wardrobe1.dll

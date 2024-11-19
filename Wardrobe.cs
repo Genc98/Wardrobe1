@@ -32,7 +32,7 @@ public class Wardrobe
             garments.RemoveAt(index);
             return garment;
          }
-      } Console.WriteLine("Could not found your" + description);
+      } Console.WriteLine("Could not found your freaking" + description);
       return null;
    }
 

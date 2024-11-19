@@ -4,7 +4,7 @@ public class Wardrobe
 {
    public Wardrobe()
    {
-      Console.WriteLine("Welcome to your wardrobe!");
+      Console.WriteLine("Welcome to your fkn wardrobe!");
    }
 
    public Door door = new Door();
